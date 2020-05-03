@@ -75,7 +75,7 @@ Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (<13.4.1)
 Architecture: iphoneos-arm
 Filename: ./debs/CW.deb
-Size: 9.34
+Size: 10
 MD5sum: 5b93ae93070f9f0ff2a7a6b2affdae73
 Description: CW
 Name: CW

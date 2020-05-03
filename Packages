@@ -33,7 +33,7 @@ Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (<13.4.1)
 Architecture: iphoneos-arm
 Filename: ./debs/com.darkchief.prysm_1.7.5_iphoneos-arm.deb
-Size: 798
+Size: 2972
 MD5sum: 1617d8ca43ed4fbca7a233ada492c8b3
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Prysm

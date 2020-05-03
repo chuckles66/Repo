@@ -1,5 +1,5 @@
 <package>
-	<id>com.darkchief.prysm</id>
+	<id>com.laughingquoll.prysm</id>
 	<name>Prysm</name>
 	<version>1.7.5-1</version>
 	<compatibility>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>New Control Center :) ..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

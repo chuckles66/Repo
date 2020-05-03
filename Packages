@@ -58,7 +58,7 @@ Package: com.opa334.ccsupport
 Version: 1.2.2-1
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
-Depends: firmware (<13.4.1)
+Depends: firmware (<13.4.1), com.laughingquoll.prysm
 Architecture: iphoneos-arm
 Filename: ./debs/com.opa334.ccsupport_1.2.2_iphoneos-arm.deb
 Size: 0.35

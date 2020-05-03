@@ -26,13 +26,13 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.darkchief.prysm
+Package: com.laughingquoll.prysm
 Version: 1.7.5-1
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (<13.4.1), com.darkchief.ccsupport
 Architecture: iphoneos-arm
-Filename: ./debs/com.darkchief.prysm_1.7.5_iphoneos-arm.deb
+Filename: ./debs/com.laughingquoll.prysm_1.7.5_iphoneos-arm.deb
 Size: 0.781
 MD5sum: 1617d8ca43ed4fbca7a233ada492c8b3
 Description: New Control Center
@@ -54,13 +54,13 @@ Name: Maple2 Free
 Author: darkchief <reposithree@gmail.com>
 Depiction: https://chuckles66.github.io/Repo/depictions/Prysm
 
-Package: com.darkchief.ccsupport
+Package: com.opa334.ccsupport
 Version: 1.2.2-1
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (<13.4.1)
 Architecture: iphoneos-arm
-Filename: ./debs/com.darkchief.ccsupport_1.2.2_iphoneos-arm.deb
+Filename: ./debs/com.opa334.ccsupport_1.2.2_iphoneos-arm.deb
 Size: 0.35
 MD5sum: bedc14592047dfd4d98fd7118ade5cc2
 Description: CCSupport

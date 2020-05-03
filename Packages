@@ -67,3 +67,17 @@ Description: CCSupport
 Name: CCSupport
 Author: darkchief <https://discordapp.com/users/332450685477978113>
 Depiction: https://chuckles66.github.io/Repo/depictions/CCSupport
+
+Package: CW
+Version: 3.1.21-1
+Section: Tweaks
+Maintainer: darkchief <reposithree@gmail.com>
+Depends: firmware (<13.4.1)
+Architecture: iphoneos-arm
+Filename: ./debs/CW.deb
+Size: 9.34
+MD5sum: 5b93ae93070f9f0ff2a7a6b2affdae73
+Description: CW
+Name: CW
+Author: darkchief <https://discordapp.com/users/332450685477978113>
+Depiction: https://chuckles66.github.io/Repo/depictions/CCSupport

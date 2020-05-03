@@ -30,7 +30,7 @@ Package: com.laughingquoll.prysm
 Version: 1.7.5-1
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
-Depends: firmware (<13.4.1), com.darkchief.ccsupport
+Depends: firmware (<13.4.1), com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: ./debs/com.laughingquoll.prysm_1.7.5_iphoneos-arm.deb
 Size: 0.781

@@ -30,9 +30,9 @@ Package: com.darkchief.prysm
 Version: 1.7.5
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
-Depends: firmware (>13.0), com.opa334.ccsupport
+Depends: firmware (>13.0), com.darkchief.ccsupport
 Architecture: iphoneos-arm
-Filename: ./debs/com.laughingquoll.prysm_1.7.5_iphoneos-arm.deb
+Filename: ./debs/com.darkchief.prysm_1.7.5_iphoneos-arm.deb
 Size: 0.781
 MD5sum: 1617d8ca43ed4fbca7a233ada492c8b3
 Description: New Control Center
@@ -58,13 +58,13 @@ Package: com.darkchief.ccsupport
 Version: 1.2.2
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
-Depends: firmware (>13.0), com.laughingquoll.prysm
+Depends: firmware (>13.0), com.darkchief.prysm
 Architecture: iphoneos-arm
 Filename: ./debs/com.darkchief.ccsupport_1.2.2_iphoneos-arm.deb
 Size: 0.35
 MD5sum: bedc14592047dfd4d98fd7118ade5cc2
-Description: CCSupport
-Name: CCSupport
+Description: CCSupportt
+Name: CCSupportt
 Author: darkchief <https://discordapp.com/users/332450685477978113>
 Depiction: https://chuckles66.github.io/Repo/depictions/?p=com.darkchief.ccsupport
 

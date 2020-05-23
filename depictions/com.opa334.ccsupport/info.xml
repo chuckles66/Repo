@@ -1,7 +1,7 @@
 <package>
 	<id>com.opa334.ccsupport</id>
 	<name>CCSupport</name>
-	<version>1.2.2-1</version>
+	<version>1.2.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.0</maxiOS>

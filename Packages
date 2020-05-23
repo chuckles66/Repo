@@ -27,7 +27,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.laughingquoll.prysm
-Version: 1.7.5-1
+Version: 1.7.5
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (>13.0), com.opa334.ccsupport
@@ -41,7 +41,7 @@ Author: darkchief <https://discordapp.com/users/332450685477978113>
 Depiction: https://chuckles66.github.io/Repo/depictions/?p=com.laughingquoll.prysm
 
 Package: com.darkchief.maple2
-Version: 1.2-1
+Version: 1.2
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (>13.0)
@@ -55,7 +55,7 @@ Author: darkchief <https://discordapp.com/users/332450685477978113>
 Depiction: https://chuckles66.github.io/Repo/depictions/Prysm
 
 Package: com.opa334.ccsupport
-Version: 1.2.2-1
+Version: 1.2.2
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
 Depends: firmware (>13.0), com.laughingquoll.prysm

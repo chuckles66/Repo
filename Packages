@@ -1,0 +1,70 @@
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.laughingquoll.prysm
+Version: 1.7.5-1
+Section: Tweaks
+Maintainer: darkchief <reposithree@gmail.com>
+Depends: firmware (>13.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.prysm_1.7.5_iphoneos-arm.deb
+Size: 0.781
+MD5sum: 1617d8ca43ed4fbca7a233ada492c8b3
+Description: New Control Center
+Name: Prysm Free
+Author: darkchief <https://discordapp.com/users/332450685477978113>
+Depiction: https://chuckles66.github.io/Repo/depictions/?p=com.laughingquoll.prysm
+
+Package: com.darkchief.maple2
+Version: 1.2-1
+Section: Tweaks
+Maintainer: darkchief <reposithree@gmail.com>
+Depends: firmware (>13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.darkchief.maple2_1.2_iphoneos-arm.deb
+Size: 0.781
+MD5sum: 70acab8437e0af7a856252999459c231
+Description: Air Power
+Name: Maple2 Free
+Author: darkchief <https://discordapp.com/users/332450685477978113>
+Depiction: https://chuckles66.github.io/Repo/depictions/Prysm
+
+Package: com.opa334.ccsupport
+Version: 1.2.2-1
+Section: Tweaks
+Maintainer: darkchief <reposithree@gmail.com>
+Depends: firmware (>13.0), com.laughingquoll.prysm
+Architecture: iphoneos-arm
+Filename: ./debs/com.opa334.ccsupport_1.2.2_iphoneos-arm.deb
+Size: 0.35
+MD5sum: bedc14592047dfd4d98fd7118ade5cc2
+Description: CCSupport
+Name: CCSupport
+Author: darkchief <https://discordapp.com/users/332450685477978113>
+Depiction: https://chuckles66.github.io/Repo/depictions/CCSupport
+

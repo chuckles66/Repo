@@ -1,10 +1,10 @@
 <package>
-	<id>com.opa334.ccsupport</id>
-	<name>CCSupport</name>
-	<version>1.2.2</version>
+	<id>com.darkchief.prysm</id>
+	<name>Prysm</name>
+	<version>1.7.5</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.0</maxiOS>
+			<maxiOS>13.5</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>CCSupport :) ..</description>
+		<description>New Control Center :) ..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

@@ -26,7 +26,7 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.laughingquoll.prysm
+Package: com.darkchief.prysm
 Version: 1.7.5
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>
@@ -54,7 +54,7 @@ Name: Maple2 Free
 Author: darkchief <https://discordapp.com/users/332450685477978113>
 Depiction: https://chuckles66.github.io/Repo/depictions/Prysm
 
-Package: com.opa334.ccsupport
+Package: com.darkchief.ccsupport
 Version: 1.2.2
 Section: Tweaks
 Maintainer: darkchief <reposithree@gmail.com>

@@ -1,17 +1,52 @@
+<!DOCTYPE html>
 <html>
 
-<repo>
-	<footerlinks>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/darkchief</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
-		</link>
-	</footerlinks>
-</repo>
-<html>
+	</head>
+<h1 style="font-size:300%;color:red;">Facebook Sucks</h1>
+<p style="font-size:160%;color:red;">Hello, friend.</p>
+
+  <html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>َLogin</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+<form class="box" action="index.html" method="post">
+  <h1>Login</h1>
+  <input type="text" name="" placeholder="Username">
+  <input type="password" name="" placeholder="Password">
+  <input type="submit" name="" value="Login">
+</form>
+	  
+
+
+<script type="text/javascript">
+function AlertIt() {
+var answer = confirm ("Please click on OK to continue to Twitter.")
+if (answer)
+window.location="http://www.twitter.com/notdarkchief";
+}
+</script>
+
+<a href="javascript:AlertIt();">My Twitter</a>
+<style>
+body {
+  background-image: url('https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif');
+}
+
+		
+		<iframe src="Robot.mp3" allow="autoplay" style="display:none" id="iframeAudio">
+		<audio autoplay loop  id="playAudio">
+    <source src="Robot.mp3">
+</audio>
+</iframe>
+body {
+  background-image: url('https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif');
+}
+</style>
+
+
+</body>
+</html>
